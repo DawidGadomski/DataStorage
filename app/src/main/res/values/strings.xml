@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">DataStorage</string>
+    <string name="number_of_players">Number of Players:</string>
+    <string name="next">Next</string>
+    <string name="_1_30">1-30</string>
+    <string name="_2_5">2-5</string>
+    <string name="number_of_turns">Number of Turns:</string>
+    <string name="tap_game">TAP GAME</string>
+    <string name="input_number_of_turns">Input number of turns</string>
+    <string name="input_number_of_players">Input number of players</string>
+    <string name="input_name">Input name</string>
+    <string name="name">Name</string>
+    <string name="summary">Summary</string>
+    <string name="play">Play</string>
+    <string name="add_player">Add Player</string>
+    <string name="game_starts">Game Starts</string>
+    <string name="game_starts_in">Game starts in...</string>
+    <string name="next_round">Next Round</string>
+    <string name="end">"END" </string>
+    <string name="play_again">Play Again</string>
+    <string name="end_game">End Game</string>
+    <string name="history">Game History</string>
+    <string name="back">Back</string>
+</resources>
